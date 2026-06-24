@@ -1,0 +1,6 @@
+{
+  "name": "Angel Zambrano Portfolio",
+  "description": "Portfolio of Angel Zambrano - Lawyer and AI Strategist bridging the gap between emerging technology and real-world legal and corporate implementations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
